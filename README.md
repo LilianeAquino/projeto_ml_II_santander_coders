@@ -13,8 +13,6 @@ pip3.8 install -r requirements.txt
 
 _Em caso de dúvidas, consulte este [artigo sobre ambiente virtual][ambiente-url]._ 
 
-<p align="justify">Para executar o script para treinamento do modelo (train_model_classifier.py): </p>
-
 [ambiente-url]: https://tutorial.djangogirls.org/pt/django_installation/
 [python-url]: https://www.python.org/downloads/release/python-3810/
 [python-image]: https://img.shields.io/badge/python-v3.8.10-blue
